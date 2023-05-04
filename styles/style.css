@@ -313,17 +313,3 @@ body{
     color: #424242;
 }
 
-
-/*================= 
-     media query
-     for mobile
-       device 
-==================*/
-
-@media screen and (max-width: 576px) {
-    
-    body{
-        
-    }
-
-}
