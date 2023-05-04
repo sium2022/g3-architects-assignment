@@ -5,9 +5,6 @@ body{
     font-family: 'Work Sans', 'Poppins', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
-.all-tag{
-    width: 100%;
-}
 /* ======================\
          1st section 
    ======================*/
@@ -258,9 +255,6 @@ body{
     justify-content: center;
     gap: 60px;
 }
-.sponsor-img{
-    
-}
 
 /*============================
            container-6
@@ -283,22 +277,12 @@ body{
     height: 300px;
     padding-top: 70px;
 }
-.interior-img{
-
-}
-.interior-btn{
-
-}
 
 
 /*============================
            container-7
           footer section 
 ==============================*/
-
-.container-7{
-
-}
 .footer-area{
     height: 70px;
     background: #FFF4E7;
